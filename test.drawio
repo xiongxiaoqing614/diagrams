@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T12:40:31.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="yomD23qvKLBiL0tBTXib" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T12:43:11.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="xGWecwuHxHkjpb1oxJWm" version="13.8.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="100" background="#003469" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="100" background="#003469" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,9 +19,6 @@
         <mxCell id="2035" value="" style="shape=mxgraph.arrows.two_way_arrow_horizontal;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;strokeColor=none;dashed=1;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=12;fontColor=#00BEF2" parent="1" vertex="1">
           <mxGeometry x="280" y="50.5" width="80" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="2071" value="IDE" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.laptop;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="374" y="123" width="50" height="32" as="geometry" />
-        </mxCell>
         <mxCell id="wyjHM4RpA-1X8csAk6KS-2096" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/141_Git-128.png" parent="1" vertex="1">
           <mxGeometry x="120" y="107.5" width="67" height="67" as="geometry" />
         </mxCell>
@@ -32,7 +29,7 @@
           <mxGeometry x="60.00000000000006" y="107.5" width="45.1" height="55" as="geometry" />
         </mxCell>
         <mxCell id="wyjHM4RpA-1X8csAk6KS-2099" value="Web管理平台" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.website_generic;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="454" y="118" width="50" height="42" as="geometry" />
+          <mxGeometry x="455" y="117" width="50" height="42" as="geometry" />
         </mxCell>
         <mxCell id="wyjHM4RpA-1X8csAk6KS-2105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2024" target="2024" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -50,7 +47,7 @@
           <mxGeometry x="40" y="240" width="240" height="180" as="geometry" />
         </mxCell>
         <mxCell id="wyjHM4RpA-1X8csAk6KS-2116" value="Cloud" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.cloud;dashed=1;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="52" y="288.25" width="50" height="32.5" as="geometry" />
+          <mxGeometry x="50" y="285.75" width="50" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="wyjHM4RpA-1X8csAk6KS-2117" value="Virtual Machine" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.virtual_machine;dashed=1;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
           <mxGeometry x="135.75" y="290.75" width="45" height="30" as="geometry" />
@@ -75,6 +72,9 @@
         </mxCell>
         <mxCell id="wyjHM4RpA-1X8csAk6KS-2130" value="Jmeter" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fillColor=#DA4026;" parent="1" vertex="1">
           <mxGeometry x="530" y="118" width="46" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KKEUl2olzmL3jS65FcmO-2072" value="PyCharm" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png" vertex="1" parent="1">
+          <mxGeometry x="380" y="117" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
