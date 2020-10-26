@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T12:29:39.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="yFbh8HI3Gd_6O9aR1USw" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T12:30:47.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="afin6gBf3RSBuwoHGLAa" version="13.8.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1022" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -48,9 +48,6 @@
         </mxCell>
         <mxCell id="wyjHM4RpA-1X8csAk6KS-2114" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#E6E6E6;fontFamily=Verdana;fontSize=12;fontColor=#00BEF2" vertex="1" parent="1">
           <mxGeometry x="210" y="320" width="240" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="wyjHM4RpA-1X8csAk6KS-2115" value="Mobile Services" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.mobile_services;dashed=1;fontSize=14;fontColor=#004C99" vertex="1" parent="1">
-          <mxGeometry x="1038" y="458" width="32.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wyjHM4RpA-1X8csAk6KS-2116" value="Cloud" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.cloud;dashed=1;fontSize=14;fontColor=#004C99" vertex="1" parent="1">
           <mxGeometry x="222" y="368.25" width="50" height="32.5" as="geometry" />
