@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T12:50:05.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="hWh3kJxKxrPx-1e4xpER" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T12:51:56.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="g7Aea5H00Yad79ljTUNl" version="13.8.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="782" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="100" background="#003469" math="0" shadow="0">
       <root>
@@ -8,16 +8,16 @@
           <mxGeometry x="40" y="40" width="240" height="160" as="geometry" />
         </mxCell>
         <mxCell id="2024" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#E6E6E6;fontFamily=Verdana;fontSize=12;fontColor=#00BEF2" parent="1" vertex="1">
-          <mxGeometry x="360" y="41" width="240" height="160" as="geometry" />
+          <mxGeometry x="320" y="41" width="240" height="160" as="geometry" />
         </mxCell>
         <mxCell id="2028" value="测试用例/数据/报告 &lt;br&gt;存储" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#3399FF;fontFamily=Helvetica;fontSize=18;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2030" value="测试管理" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#3399FF;fontFamily=Helvetica;fontSize=18;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="360" y="40" width="240" height="60" as="geometry" />
+          <mxGeometry x="320" y="40" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2035" value="" style="shape=mxgraph.arrows.two_way_arrow_horizontal;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;strokeColor=none;dashed=1;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=12;fontColor=#00BEF2" parent="1" vertex="1">
-          <mxGeometry x="280" y="50.5" width="80" height="39" as="geometry" />
+          <mxGeometry x="280" y="50.5" width="40" height="39" as="geometry" />
         </mxCell>
         <mxCell id="wyjHM4RpA-1X8csAk6KS-2096" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/141_Git-128.png" parent="1" vertex="1">
           <mxGeometry x="120" y="107.5" width="67" height="67" as="geometry" />
@@ -29,19 +29,19 @@
           <mxGeometry x="60.00000000000006" y="107.5" width="45.1" height="55" as="geometry" />
         </mxCell>
         <mxCell id="wyjHM4RpA-1X8csAk6KS-2099" value="Web管理平台" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.website_generic;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="129" width="50" height="42" as="geometry" />
+          <mxGeometry x="490" y="129" width="50" height="42" as="geometry" />
         </mxCell>
         <mxCell id="wyjHM4RpA-1X8csAk6KS-2105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2024" target="2024" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wyjHM4RpA-1X8csAk6KS-2110" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#E6E6E6;fontFamily=Verdana;fontSize=12;fontColor=#00BEF2" parent="1" vertex="1">
-          <mxGeometry x="360" y="244" width="240" height="176" as="geometry" />
+          <mxGeometry x="320" y="244" width="240" height="176" as="geometry" />
         </mxCell>
         <mxCell id="wyjHM4RpA-1X8csAk6KS-2111" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/jenkins-128.png" parent="1" vertex="1">
-          <mxGeometry x="415" y="288" width="128" height="128" as="geometry" />
+          <mxGeometry x="375" y="288" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="wyjHM4RpA-1X8csAk6KS-2112" value="测试执行平台" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#3399FF;fontFamily=Helvetica;fontSize=18;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="360" y="240" width="240" height="40" as="geometry" />
+          <mxGeometry x="320" y="240" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wyjHM4RpA-1X8csAk6KS-2114" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#E6E6E6;fontFamily=Verdana;fontSize=12;fontColor=#00BEF2" parent="1" vertex="1">
           <mxGeometry x="40" y="240" width="240" height="180" as="geometry" />
@@ -62,22 +62,22 @@
           <mxGeometry x="40" y="240" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wyjHM4RpA-1X8csAk6KS-2122" value="" style="shape=mxgraph.arrows.two_way_arrow_horizontal;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;strokeColor=none;dashed=1;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=12;fontColor=#00BEF2" parent="1" vertex="1">
-          <mxGeometry x="280" y="310" width="80" height="39" as="geometry" />
+          <mxGeometry x="280" y="310" width="40" height="39" as="geometry" />
         </mxCell>
         <mxCell id="wyjHM4RpA-1X8csAk6KS-2123" value="" style="shape=mxgraph.arrows.two_way_arrow_horizontal;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;strokeColor=none;dashed=1;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=12;fontColor=#00BEF2;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="139.25" y="200" width="41.5" height="39" as="geometry" />
         </mxCell>
         <mxCell id="wyjHM4RpA-1X8csAk6KS-2124" value="" style="shape=mxgraph.arrows.two_way_arrow_horizontal;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;strokeColor=none;dashed=1;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=12;fontColor=#00BEF2;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="459.25" y="201" width="41.5" height="39" as="geometry" />
+          <mxGeometry x="419.25" y="201" width="41.5" height="39" as="geometry" />
         </mxCell>
         <mxCell id="wyjHM4RpA-1X8csAk6KS-2130" value="Jmeter" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fillColor=#DA4026;" parent="1" vertex="1">
-          <mxGeometry x="374" y="106" width="26" height="30" as="geometry" />
+          <mxGeometry x="334" y="106" width="26" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KKEUl2olzmL3jS65FcmO-2072" value="PyCharm" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png" vertex="1" parent="1">
-          <mxGeometry x="415" y="129" width="37" height="37" as="geometry" />
+          <mxGeometry x="375" y="129" width="37" height="37" as="geometry" />
         </mxCell>
         <mxCell id="KKEUl2olzmL3jS65FcmO-2073" value="分析工具" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Log_Analytics_Workspaces.svg;" vertex="1" parent="1">
-          <mxGeometry x="470" y="100" width="40" height="40" as="geometry" />
+          <mxGeometry x="430" y="100" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
