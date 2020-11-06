@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T01:47:14.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="d2sw0y2XODYP_zIu-1BZ" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-06T01:49:10.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="o2SHXuxsiMiPuzEfxTcT" version="13.8.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -53,13 +53,13 @@
           <mxGeometry x="495" y="570.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1761" value="测试执行平台" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="695" y="650.5" width="150" height="60" as="geometry" />
+          <mxGeometry x="600" y="720" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1762" value="缺陷管理平台" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="495" y="716.5" width="150" height="60" as="geometry" />
+          <mxGeometry x="410" y="716.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1763" value="测试用例管理平台" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="295" y="650.5" width="150" height="60" as="geometry" />
+          <mxGeometry x="260" y="640" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1764" value="专项测试" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="495" y="200.5" width="150" height="60" as="geometry" />
@@ -110,6 +110,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="596.8914956011729" y="208.5" as="sourcePoint" />
             <mxPoint x="720" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NZT6G5HgQfSxI1oQLupO-1782" value="测试框架" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="750" y="640" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NZT6G5HgQfSxI1oQLupO-1783" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#1699D3;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="NZT6G5HgQfSxI1oQLupO-1782">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="647" y="630" as="sourcePoint" />
+            <mxPoint x="726" y="548.4000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
