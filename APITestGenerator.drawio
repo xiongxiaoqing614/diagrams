@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T04:04:10.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="-MiLAaDlyCdUpcmAJ7YC" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-09T04:06:35.500Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="WQ0VHUZsb773Q7y68MSh" version="13.8.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="782" dy="-390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -136,6 +136,19 @@
             <Array as="points">
               <mxPoint x="680" y="1281" />
               <mxPoint x="620" y="1359" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rsJ80O6-44v7srC-CNjc-166" value="&lt;font color=&quot;#ffffff&quot;&gt;自动化信息平台&lt;/font&gt;" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;gradientColor=none;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1256" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rsJ80O6-44v7srC-CNjc-167" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=3;strokeColor=#0C343D;fontFamily=Helvetica;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rsJ80O6-44v7srC-CNjc-164">
+          <mxGeometry x="-500.05102040816325" y="1118.5" width="131.97278911564624" height="100" as="geometry">
+            <mxPoint x="420" y="1260" as="sourcePoint" />
+            <mxPoint x="380" y="1281" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="1250" />
+              <mxPoint x="323.5" y="1338" />
             </Array>
           </mxGeometry>
         </mxCell>
