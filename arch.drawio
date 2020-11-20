@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T11:07:07.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="6MzWm7asfwulq352Rj2E" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T11:07:45.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="hK5JL-9J63YA4_4ZdUEF" version="13.9.9" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2286" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
+    <mxGraphModel dx="1951" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
           <mxGeometry x="439.95" y="363.23" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="2068" value="客户端自动化测试平台" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="140" y="328.48" width="210" height="105.5" as="geometry" />
+          <mxGeometry x="140" y="328.48" width="210" height="111.52" as="geometry" />
         </mxCell>
         <mxCell id="2069" value="用例管理" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.cloud;dashed=1;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
           <mxGeometry x="150" y="367.23" width="50" height="31" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="590" y="232" width="45" height="43" as="geometry" />
         </mxCell>
         <mxCell id="DDIoOHOh3YlPJ9OeS1EO-2112" value="持续集成平台" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="140" y="451.63" width="210" height="121.87" as="geometry" />
+          <mxGeometry x="140" y="460" width="210" height="113.5" as="geometry" />
         </mxCell>
         <mxCell id="DDIoOHOh3YlPJ9OeS1EO-2113" value="流程制定" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/management/process_management.svg;" vertex="1" parent="1">
           <mxGeometry x="-13.5" y="388.13" width="60" height="60" as="geometry" />
