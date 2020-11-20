@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T11:27:23.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="Lug1Z68otK-grMnwZ-kn" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T11:44:55.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="wyiVci15LL734mCfCGVS" version="13.9.9" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1951" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -91,14 +91,14 @@
         <mxCell id="DDIoOHOh3YlPJ9OeS1EO-2121" value="信息平台" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#3399FF;fontFamily=Helvetica;fontSize=18;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-50" y="630" width="45" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="DDIoOHOh3YlPJ9OeS1EO-2122" value="用例存储" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="275" y="639.5" width="169.62" height="121" as="geometry" />
+        <mxCell id="DDIoOHOh3YlPJ9OeS1EO-2122" value="版本控制" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="260" y="639.5" width="200" height="121" as="geometry" />
         </mxCell>
-        <mxCell id="DDIoOHOh3YlPJ9OeS1EO-2124" value="测试数据" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.database;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" vertex="1" parent="1">
-          <mxGeometry x="380" y="675.39" width="37.5" height="50" as="geometry" />
+        <mxCell id="DDIoOHOh3YlPJ9OeS1EO-2124" value="测试数据" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.database;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#0F0F0F;" vertex="1" parent="1">
+          <mxGeometry x="345.25" y="675.8" width="34.75" height="44.6" as="geometry" />
         </mxCell>
-        <mxCell id="DDIoOHOh3YlPJ9OeS1EO-2125" value="测试脚本" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.script;" vertex="1" parent="1">
-          <mxGeometry x="300.45000000000005" y="678.6999999999999" width="44.8" height="44.8" as="geometry" />
+        <mxCell id="DDIoOHOh3YlPJ9OeS1EO-2125" value="测试场景" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.script;" vertex="1" parent="1">
+          <mxGeometry x="275.00000000000006" y="675.9899999999999" width="44.8" height="44.8" as="geometry" />
         </mxCell>
         <mxCell id="DDIoOHOh3YlPJ9OeS1EO-2126" value="结果报表" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="476.8" y="639.5" width="166.29" height="121" as="geometry" />
@@ -171,6 +171,9 @@
         </mxCell>
         <mxCell id="DDIoOHOh3YlPJ9OeS1EO-2165" value="安全性测试" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/security/Application_Security_Groups.svg;" vertex="1" parent="1">
           <mxGeometry x="592.58" y="492.9" width="32.78" height="39.81" as="geometry" />
+        </mxCell>
+        <mxCell id="DDIoOHOh3YlPJ9OeS1EO-2166" value="测试配置" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/flat-mate-basic-1/30/Basic_settings_cog_options_config_configure_gear_engineering-128.png;fontColor=#0F0F0F;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="673.84" width="49.1" height="49.1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
