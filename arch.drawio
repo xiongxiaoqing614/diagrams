@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T11:44:55.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="wyiVci15LL734mCfCGVS" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T11:50:05.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="uTDXpZVVmra1eOjjgsrA" version="13.9.9" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1951" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -172,7 +172,7 @@
         <mxCell id="DDIoOHOh3YlPJ9OeS1EO-2165" value="安全性测试" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/security/Application_Security_Groups.svg;" vertex="1" parent="1">
           <mxGeometry x="592.58" y="492.9" width="32.78" height="39.81" as="geometry" />
         </mxCell>
-        <mxCell id="DDIoOHOh3YlPJ9OeS1EO-2166" value="测试配置" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/flat-mate-basic-1/30/Basic_settings_cog_options_config_configure_gear_engineering-128.png;fontColor=#0F0F0F;rotation=0;" vertex="1" parent="1">
+        <mxCell id="DDIoOHOh3YlPJ9OeS1EO-2166" value="测试框架" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/flat-mate-basic-1/30/Basic_settings_cog_options_config_configure_gear_engineering-128.png;fontColor=#0F0F0F;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="673.84" width="49.1" height="49.1" as="geometry" />
         </mxCell>
       </root>
